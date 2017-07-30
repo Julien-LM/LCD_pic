@@ -1,5 +1,5 @@
 //LCD Functions Developed by electroSome
-
+#include "define.h"
 
 void Lcd_Port(char a)
 {
